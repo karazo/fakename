@@ -1,0 +1,10 @@
+LICENSE
+MANIFEST.in
+README.md
+pyproject.toml
+src/__init__.py
+src/generate.py
+src/fakename.egg-info/PKG-INFO
+src/fakename.egg-info/SOURCES.txt
+src/fakename.egg-info/dependency_links.txt
+src/fakename.egg-info/top_level.txt
